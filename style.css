@@ -1,0 +1,11 @@
+#header {
+	background-color:lightgrey;
+}
+
+#header a {
+	text-decoration: none;
+}
+#header li{
+	display:inline;
+
+}
