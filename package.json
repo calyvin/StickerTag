@@ -1,0 +1,25 @@
+{
+  "name": "prs_server",
+  "version": "1.0.0",
+  "main": "express_server.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "A project aspiring to a new digital age of Trinity sticker tag.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calyvin/StickerTag.git"
+  },
+  "bugs": {
+    "url": "https://github.com/calyvin/StickerTag/issues"
+  },
+  "homepage": "https://github.com/calyvin/StickerTag#readme"
+}
